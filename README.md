@@ -1,2 +1,2 @@
 # ASSemblerExamples
-There are my freacking homeworks. I love assembler ♥ 
+There are my freaking homeworks. I love assembler ♥ 
